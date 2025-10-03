@@ -1,0 +1,2 @@
+# mangooo
+Microfinance software
